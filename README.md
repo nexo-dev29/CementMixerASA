@@ -5,7 +5,7 @@ A mod for **ARK: Survival Ascended** that introduces in‑game structures to aut
 ## 🛠️ What It Does
 
 - **Stone Hammer**: Crushes stone into gravel.  
-- **Cement Mixer**: Mixes gravel and water (or via irrigation pipes) into cementing paste. 
+- **Cement Mixer**: Mixes gravel and water into cementing paste. 
 - Streamlines resource processing using realistic machinery.
 
 ## 📋 Usage
