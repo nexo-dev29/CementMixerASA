@@ -11,10 +11,9 @@ A mod for **ARK: Survival Ascended** that introduces in‑game structures to aut
 ## 📋 Usage
 
 1. Unlock engram(s) at **level 65**.  
-2. Build the **Stone Hammer** to generate gravel.  
-3. Connect the **Cement Mixer** to water (via pipes or irrigation).  
-4. Load with gravel (and gasoline if required).  
-5. Power on and watch cementing paste flow.
+2. Build the **Stone Hammer** to generate gravel.   
+3. Load the cement mixer with gravel and gasoline.  
+4. Power on and watch the cementing paste flow.
 
 ## 🐞 Reporting Issues
 
